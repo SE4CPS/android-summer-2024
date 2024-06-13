@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">edu.shsi2024.steptracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Step Tracker</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Previous Tracks</string>
+    <string name="previous">Previous</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_pause">Pause</string>
+
+    <string name="lorem_ipsum">Welcome to the step tracker app! With this app you can track how many steps you make.
+
+    </string>
+    <string name="label_steps_taken">Steps:</string>
+    <string name="value_steps_taken">0</string>
+    <string name="label_distance_taken">Distance:</string>
+    <string name="value_distance_taken">0</string>
+    <string name="label_calories_taken">Calories:</string>
+    <string name="value_calories_taken">0</string>
+    <string name="label_time_taken">Time:</string>
+    <string name="value_time_taken">0</string>
+</resources>
